@@ -1,6 +1,8 @@
-test
+# About Me
 
-# Welcome!
+Text
+
+# Projects
 
 ## University Courseworks
 Below are some of the assessed courseworks completed during my years at the University of Exeter.
@@ -18,3 +20,7 @@ Below are some of the assessed courseworks completed during my years at the Univ
 This was a project completed for my Computer Science A Level
 
 - [Picture This!](https://github.com/JayB-127/PictureThis)
+
+## Other Projects
+
+more coming soon 👀
