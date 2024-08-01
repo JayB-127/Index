@@ -3,10 +3,14 @@ What you can find here:
 2. Past and present projects
 3. Anything else exciting I want to share!
 
+* * *
+
 ## About Me
 
 Im Jacob (JayB-127). Im a 3rd year student at the University of Exeter studying Computer Science.
 I am currently working as a Data Engineer at the Met Office for a year as part of my industrial placement.
+
+* * *
 
 ## Projects
 
