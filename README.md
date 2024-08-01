@@ -1,9 +1,3 @@
----
-layout: default
-title: JayB-127's Page
-description: Hi. Welcome to my GitHub page, hosting all things about me and my projects...
----
-
 test
 
 # Welcome!
